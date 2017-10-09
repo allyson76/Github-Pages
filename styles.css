@@ -1,0 +1,155 @@
+body {background-color: pink;
+
+
+}
+h1{
+    font-family: Verdana;
+    margin-left:20px;
+	
+}
+
+    
+p{margin-left: 20px;
+	margin-right:500px;
+
+}
+
+.clear {clear:both;
+        height: 20px;
+		
+}
+
+/*div first-child {float: right;}*/
+
+img{
+    height: 200px; 
+	width:150px; 
+	right:70px;
+	top:45px;
+	position:absolute;
+	clear:left;
+	transform: rotate(-5deg);
+}
+
+
+.education {
+    
+    text-align: center;
+    height: 100px;
+	width: 200px;
+	border-right: 2px solid powderblue;
+	float:left;
+	padding-right:15px;
+	margin-right:20px;
+	margin-top: 20px;
+	margin-left: 100px;
+
+	 }
+
+.educationinfo{
+    position: absolute;
+    float: right;
+    height: 50px;
+	width: 1000px;
+	border: 2px ;
+	border-radius: 5px;
+	display:inline-block;
+	margin-left:400px;
+	
+	
+}
+
+.skills{
+     text-align: center;
+    height: 100px;
+	width: 200px;
+	border-right: 2px solid powderblue;
+	float:left;
+	padding-right:15px;
+	margin-right:20px;
+	margin-left: 100px;
+	
+	
+	
+}
+.skillsinfo{
+    position: absolute;
+    float: right;
+    height: 50px;
+	width: 1000px;
+	border: 2px ;
+	border-radius: 5px;
+	display:inline-block;
+	margin-left:60px;
+	
+	
+}
+
+.experience{
+     text-align: center;
+    height: 100px;
+	width: 200px;
+	border-right: 2px solid powderblue;
+	float:left;
+	padding-right:15px;
+	margin-right:20px;
+	margin-left: 100px;;
+	
+	
+}
+.experienceinfo{
+     position: absolute;
+    float: right;
+    height: 200px;
+	width: 1000px;
+	border: 2px ;
+	border-radius: 5px;
+	display:inline-block;
+	margin-left:60px;
+	
+}
+
+.hobbies{
+     text-align: center;
+    height: 100px;
+	width: 200px;
+	border-right: 2px solid powderblue;
+	float:left;
+	padding-right:15px;
+	margin-right:20px;
+	margin-left: 100px;
+	
+
+}
+.hobbiesinfo{
+     position: absolute;
+    float: right;
+    height: 50px;
+	width: 1000px;
+	border: 2px ;
+	border-radius: 5px;
+	display:inline-block;
+	margin-left:60px;
+}
+
+.reference{
+      text-align: center;
+    height: 100px;
+	width: 200px;
+	border-right: 2px solid powderblue;
+	float:left;
+	padding-right:15px;
+	margin-right:20px;
+	margin-left: 100px;
+	
+	}
+.referenceinfo{
+     position: absolute;
+    float: right;
+    height: 100px;
+	width: 1000px;
+	border: 5px ;
+	border-radius: 5px;
+	display:inline-block;
+	margin-left:60px;
+	}
